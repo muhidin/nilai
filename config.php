@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $userdb = 'root';
-$passdb = 'abudata';
+$passdb = '';
 $db = 'yt_nilai';
 
 //Procedural Style
